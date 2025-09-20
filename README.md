@@ -1,6 +1,7 @@
 # cli_linux_phonebook
 This is a CLI Phonebook for linux
 This program only works on Linux PCs
+
 Installation & Usage:
 1. Download ph_012.c file
 2. Compile it with cc ph_012.c -o phonebook
